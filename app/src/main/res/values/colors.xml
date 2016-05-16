@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Color applied to the background of the help dialog -->
+    <color name="translucent_help_dialog_backgroud">#C0000000</color>
+    <color name="dialog_background_transform">#dedede</color>
+    <color name="dialog_text_transfer_value">#5f5f5f</color>
+    <color name="alert_title_end_bg">#545454</color>
+    <color name="dialog_transfer_button_background">#0096bc</color>
+
+</resources>

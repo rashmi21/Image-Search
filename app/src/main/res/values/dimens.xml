@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- New text font sizes -->
+    <dimen name="xxlarge_text">28sp</dimen>
+    <dimen name="xlarge_text">18sp</dimen>
+    <dimen name="large_text">16sp</dimen>
+    <dimen name="regular_text">14sp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="xsmall_text">10sp</dimen>
+    <dimen name="xxsmall_text">8sp</dimen>
+
+    <!-- Custom Progress Dialog -->
+    <dimen name="dialog_txt_msg_width">350dp</dimen>
+    <dimen name="alert_icon_size">-35dp</dimen>
+    <dimen name="alert_icon_size_positive">35dp</dimen>
+
+    <dimen name="layout_margin_dimen">12dp</dimen>
+
+    <dimen name="image_size">30dp</dimen>
+
+</resources>
